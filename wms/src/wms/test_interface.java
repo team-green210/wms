@@ -1,7 +1,7 @@
 package wms;
 
 public interface test_interface {
-	public String abc();
-	public String bbb();
-	public int ccc(int z);
+	public String test_abc();
+	public String test_abc2();
+	public String test_abc3();	
 }
