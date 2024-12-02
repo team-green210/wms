@@ -6,5 +6,6 @@ private void main() {
 	System.out.println("Git짱짱짱짱짱짱짱!!");
 	System.out.println("Git짱짱짱짱짱짱짱!!");
 	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
 }
 }
