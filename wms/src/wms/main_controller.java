@@ -10,5 +10,28 @@ private void main() {
 	System.out.println("Git짱짱짱짱짱짱짱!!");
 	System.out.println("Git짱짱짱짱짱짱짱!!");
 	System.out.println("Git짱짱짱짱짱짱짱!!");
+<<<<<<< HEAD
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	System.out.println("Git짱짱짱짱짱짱짱!!");
+	
+=======
+>>>>>>> branch 'dev' of https://github.com/team-green210/wms.git
 }
 }
